@@ -1,6 +1,4 @@
-# Overview
-
-🫧 2.5D Pixel Role-Playing Game
+# 🫧 2.5D Pixel Role-Playing Game
 
 - 2.5D game built in Unity using C#, implementing my own illustrations and animations as the in-game assets, and integrating visual shaders, a 3D environment, and narrative elements
 - Designed game mechanics and scriptable objects to manage UI overlays and dialogue systems, reinforcing skills in object-orientated design, singleton and observer design patterns, and decomposition
